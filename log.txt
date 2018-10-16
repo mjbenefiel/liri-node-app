@@ -1978,3 +1978,57 @@ Date: 05/19/2019
 ---------------------------------------------------
 
 Country: Sweden
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Preview: null
+
+---------------------------------------------------
+
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Artist: Backstreet Boys
+
+---------------------------------------------------
+
+Preview: null
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Preview: null
+
+---------------------------------------------------
+
+Title: Mandy
+Release Year: 2018
+Rotten Tomatoes Rating: 94%
+Country: Belgium, USA
+IMDB Rating: 6.8
+Plot: Mandy is set in the primal wilderness of 1983 where Red Miller, a broken and haunted man, hunts an unhinged religious sect who slaughtered the love of his life.
+Actors: Nicolas Cage, Andrea Riseborough, Linus Roache, Ned Dennehy
+Language: English
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview: null
+
+---------------------------------------------------
+

@@ -39,6 +39,8 @@ function switchCase() {
   }
 };
 
+//BANDS IN TOWN
+
 function bandsInTown(parameter){
 
 if (command === 'concert-this')
@@ -90,6 +92,9 @@ request(queryUrl, function(error, response, body) {
   }
 });
 }
+
+//SPOTIFY
+
 function spotifySong(parameter) {
 
 
@@ -118,6 +123,9 @@ function spotifySong(parameter) {
     }
   });
 };
+
+//OMDB
+
 function omdbInfo(parameter) {
 
 
@@ -147,6 +155,8 @@ function omdbInfo(parameter) {
   });
 };
 
+//DO WHAT RANDOM.TXT SAYS
+
 function getRandom() {
 fs.readFile('random.txt', "utf8", function(error, data){
 
@@ -157,37 +167,17 @@ fs.readFile('random.txt', "utf8", function(error, data){
   
     var dataArr = data.split(",");
     
-    if (dataArr[0] === "spotify-this-song") 
-    {
+    if (dataArr[0] === "spotify-this-song") {
+        
       var songcheck = dataArr[1].trim().slice(1, -1);
       spotifySong(songcheck);
     } 
-    else if (dataArr[0] === "concert-this") 
-    { 
-      if (dataArr[1].charAt(1) === "'")
-      {
-      	var dLength = dataArr[1].length - 1;
-      	var data = dataArr[1].substring(2,dLength);
-      	console.log(data);
-      	bandsInTown(data);
-      }
-      else
-      {
-	      var bandName = dataArr[1].trim();
-	      console.log(bandName);
-	      bandsInTown(bandName);
-	  }
-  	  
-    } 
-    else if(dataArr[0] === "movie-this") 
-    {
-      var movie_name = dataArr[1].trim().slice(1, -1);
-      omdbInfo(movie_name);
-    } 
-    
+   
     });
 
 };
+
+//SEND TO LOG.TXT
 
 function display(dataToLog) {
 

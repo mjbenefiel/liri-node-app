@@ -67,10 +67,10 @@ request(queryUrl, function(error, response, body) {
     var JS = JSON.parse(body);
     for (i = 0; i < JS.length; i++)
     {
-      var dTime = JS[i].datetime;
-        var month = dTime.substring(5,7);
-        var year = dTime.substring(0,4);
-        var day = dTime.substring(8,10);
+      var dateTime = JS[i].datetime;
+        var month = dateTime.substring(5,7);
+        var year = dateTime.substring(0,4);
+        var day = dateTime.substring(8,10);
         var dateForm = month + "/" + day + "/" + year
   
       display("\n---------------------------------------------------\n");
@@ -105,7 +105,7 @@ function spotifySong(parameter) {
     query: searchTrack
   }, function(error, data) {
     if (error) {
-      display('Error occurred: ' + error);
+      display('Error recorded: ' + error);
       return;
     } else {
       display("\n---------------------------------------------------\n");

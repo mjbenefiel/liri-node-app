@@ -1422,3 +1422,559 @@ Country: Germany
 
 ---------------------------------------------------
 
+
+---------------------------------------------------
+
+Date: 10/15/2018
+Name: Van Andel Arena
+City: Grand Rapids
+Country: United States
+Country: MI
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/18/2018
+Name: Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/19/2018
+Name: Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/23/2018
+Name: KFC Yum! Center
+City: Louisville
+Country: KY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/24/2018
+Name: Bridgestone Arena
+City: Nashville
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/26/2018
+Name: United Center
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+Date: 10/27/2018
+Name: United Center
+
+---------------------------------------------------
+
+City: Chicago
+Country: United States
+
+---------------------------------------------------
+
+Date: 10/30/2018
+
+---------------------------------------------------
+
+City: St Louis
+Country: IL
+Name: Scottrade Center
+Country: MO
+
+---------------------------------------------------
+
+Date: 11/02/2018
+Country: United States
+
+---------------------------------------------------
+
+Name: Schottenstein Center
+City: Columbus
+Country: United States
+
+---------------------------------------------------
+
+Date: 11/03/2018
+
+---------------------------------------------------
+
+Name: Quicken Loans Arena
+Country: OH
+City: Cleveland
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/23/2018
+Name: BB&T Center
+Country: OH
+City: Sunrise
+Country: United States
+
+---------------------------------------------------
+
+Country: FL
+
+---------------------------------------------------
+
+Name: AmericanAirlines Arena
+City: Miami
+Date: 11/24/2018
+Country: United States
+
+---------------------------------------------------
+
+Country: FL
+
+---------------------------------------------------
+
+City: Orlando
+Date: 11/27/2018
+Name: Amway Center
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/28/2018
+Name: Amalie Arena
+Country: FL
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+Date: 11/30/2018
+
+---------------------------------------------------
+
+City: Atlanta
+Name: Philips Arena
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Tampa
+Date: 12/01/2018
+Country: GA
+City: Atlanta
+Name: Philips Arena
+
+---------------------------------------------------
+
+Date: 12/04/2018
+
+---------------------------------------------------
+
+Country: United States
+Name: Legacy Arena at the BJCC
+Country: AL
+City: Birmingham
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Name: Smoothie King Center
+City: New Orleans
+Country: LA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Toyota Center
+Date: 12/08/2018
+City: Houston
+Date: 12/06/2018
+Country: United States
+
+---------------------------------------------------
+
+Country: TX
+Date: 12/09/2018
+
+---------------------------------------------------
+
+Name: Toyota Center
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+City: Houston
+
+---------------------------------------------------
+
+City: San Antonio
+Country: TX
+Name: AT&T Center
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/12/2018
+
+---------------------------------------------------
+
+City: Dallas
+Date: 12/14/2018
+Name: American Airlines Center
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/15/2018
+Name: American Airlines Center
+Country: TX
+City: Dallas
+Country: United States
+
+---------------------------------------------------
+
+Country: TX
+Date: 01/11/2019
+
+---------------------------------------------------
+
+Name: Taco Bell Arena
+City: Boise
+Country: United States
+
+---------------------------------------------------
+
+Country: ID
+Date: 01/12/2019
+
+---------------------------------------------------
+
+Country: OR
+Name: Moda Center
+Country: United States
+City: Portland
+
+---------------------------------------------------
+
+Name: Save Mart Center
+
+---------------------------------------------------
+
+City: Fresno
+Date: 01/15/2019
+Country: United States
+
+---------------------------------------------------
+
+Date: 01/16/2019
+
+---------------------------------------------------
+
+City: Sacramento
+Name: Golden 1 Center
+Country: CA
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+Name: Oracle Arena
+
+---------------------------------------------------
+
+Date: 01/18/2019
+Country: United States
+Country: CA
+City: Oakland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/19/2019
+Name: SAP Center At San Jose
+Country: CA
+City: San Jose
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Los Angeles
+Name: Staples Center
+Country: United States
+Date: 01/22/2019
+
+---------------------------------------------------
+
+Country: CA
+
+---------------------------------------------------
+
+Name: Staples Center
+Country: CA
+Date: 01/23/2019
+City: Los Angeles
+Country: United States
+
+---------------------------------------------------
+
+Name: Gila River Arena
+
+---------------------------------------------------
+
+Date: 01/26/2019
+Country: AZ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/29/2019
+Name: Valley View Casino Center
+City: San Diego
+City: Glendale
+Country: United States
+
+---------------------------------------------------
+
+Country: CA
+Date: 02/07/2019
+
+---------------------------------------------------
+
+Name: Pepsi Center
+City: Denver
+Country: United States
+
+---------------------------------------------------
+
+Country: CO
+
+---------------------------------------------------
+
+Date: 02/09/2019
+Name: BOK Center
+City: Tulsa
+Country: OK
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/12/2019
+Name: CenturyLink Center Omaha
+City: Omaha
+Country: NE
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/13/2019
+Name: Sprint Center
+City: Kansas City
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/18/2019
+Name: Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/19/2019
+Name: Wisconsin Entertainment and Sports Center
+City: Milwaukee
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/21/2019
+Name: Target Center
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/27/2019
+Name: U.S. Bank Arena
+City: Cincinnati
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/01/2019
+Name: Times Union Center
+City: Albany
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/08/2019
+Name: Barclays Center
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/12/2019
+Name: PNC Arena
+City: Raleigh
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/13/2019
+Name: Colonial Life Arena
+City: Columbia
+Country: SC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/15/2019
+Name: Jacksonville Veterans Memorial Arena
+City: Jacksonville
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/04/2019
+Name: Tauron Arena
+City: Kraków
+Country: Poland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/07/2019
+City: Prague
+Country: Czech Republic
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/15/2019
+City: Nieuw-amsterdam
+Name: Ziggo Dome
+Country: Netherlands
+
+---------------------------------------------------
+
+Date: 05/18/2019
+
+---------------------------------------------------
+
+Name: Royal Arena
+Name: O2 Arena
+City: Copenhagen
+
+---------------------------------------------------
+
+Country: Denmark
+
+---------------------------------------------------
+
+City: Goteborg
+Name: Scandinavium
+Date: 05/19/2019
+
+---------------------------------------------------
+
+Country: Sweden

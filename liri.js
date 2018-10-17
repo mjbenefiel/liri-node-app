@@ -10,7 +10,6 @@ let spotify = new Spotify(keys.spotify);
 
 let chalk = require('chalk');
 
-
 let command = process.argv[2];
 let parameter = process.argv[3];
 

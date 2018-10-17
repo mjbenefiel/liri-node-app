@@ -2032,3 +2032,3608 @@ Preview: null
 
 ---------------------------------------------------
 
+
+---------------------------------------------------
+
+Date: 10/18/2018
+Name: Madison Square Garden
+Country: NY
+City: New York
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+Name: Madison Square Garden
+Date: 10/19/2018
+Country: United States
+City: New York
+
+---------------------------------------------------
+
+Date: 10/23/2018
+
+---------------------------------------------------
+
+City: Louisville
+Name: KFC Yum! Center
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+Country: KY
+
+---------------------------------------------------
+
+Name: Bridgestone Arena
+City: Nashville
+Date: 10/24/2018
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: United Center
+Date: 10/26/2018
+Country: IL
+City: Chicago
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: TN
+Date: 10/27/2018
+Country: IL
+Name: United Center
+Country: United States
+
+---------------------------------------------------
+
+Date: 10/30/2018
+
+---------------------------------------------------
+
+City: Chicago
+City: St Louis
+Country: United States
+Name: Scottrade Center
+
+---------------------------------------------------
+
+Country: MO
+
+---------------------------------------------------
+
+City: Columbus
+Name: Schottenstein Center
+Date: 11/02/2018
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: OH
+Name: Quicken Loans Arena
+Country: OH
+Date: 11/03/2018
+City: Cleveland
+Country: United States
+
+---------------------------------------------------
+
+Name: BB&T Center
+Date: 11/23/2018
+
+---------------------------------------------------
+
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+City: Sunrise
+
+---------------------------------------------------
+
+Date: 11/24/2018
+Name: AmericanAirlines Arena
+Country: United States
+
+---------------------------------------------------
+
+Country: FL
+
+---------------------------------------------------
+
+Name: Amway Center
+Country: FL
+City: Orlando
+Country: United States
+Date: 11/27/2018
+
+---------------------------------------------------
+
+City: Miami
+
+---------------------------------------------------
+
+City: Tampa
+Name: Amalie Arena
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/30/2018
+Country: FL
+Date: 11/28/2018
+Country: GA
+City: Atlanta
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/01/2018
+City: Atlanta
+Country: GA
+Country: United States
+Name: Philips Arena
+
+---------------------------------------------------
+
+Name: Philips Arena
+
+---------------------------------------------------
+
+Date: 12/04/2018
+Name: Legacy Arena at the BJCC
+City: Birmingham
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/06/2018
+Name: Smoothie King Center
+City: New Orleans
+Country: LA
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/08/2018
+
+---------------------------------------------------
+
+City: Houston
+Name: Toyota Center
+Country: AL
+Country: United States
+
+---------------------------------------------------
+
+Country: TX
+Name: Toyota Center
+
+---------------------------------------------------
+
+City: Houston
+Date: 12/09/2018
+
+---------------------------------------------------
+
+Country: United States
+Date: 12/12/2018
+Country: TX
+
+---------------------------------------------------
+
+Country: TX
+Name: AT&T Center
+
+---------------------------------------------------
+
+City: San Antonio
+
+---------------------------------------------------
+
+Date: 12/14/2018
+Country: United States
+Name: American Airlines Center
+Country: United States
+Country: TX
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: American Airlines Center
+City: Dallas
+Country: United States
+Date: 12/15/2018
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/11/2019
+Country: TX
+Name: Taco Bell Arena
+City: Dallas
+Country: ID
+City: Boise
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/12/2019
+Name: Moda Center
+City: Portland
+Country: United States
+
+---------------------------------------------------
+
+Country: OR
+
+---------------------------------------------------
+
+Name: Save Mart Center
+City: Fresno
+Date: 01/15/2019
+Country: United States
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 01/16/2019
+Name: Golden 1 Center
+Country: CA
+City: Sacramento
+Country: United States
+
+---------------------------------------------------
+
+Country: CA
+Date: 01/18/2019
+Name: Oracle Arena
+
+---------------------------------------------------
+
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Oakland
+Date: 01/19/2019
+Name: SAP Center At San Jose
+Country: CA
+City: San Jose
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Los Angeles
+Name: Staples Center
+Country: United States
+Country: CA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/23/2019
+Name: Staples Center
+City: Los Angeles
+Country: United States
+
+---------------------------------------------------
+
+Country: CA
+Date: 01/22/2019
+
+---------------------------------------------------
+
+City: Glendale
+Country: AZ
+Country: United States
+
+---------------------------------------------------
+
+Name: Gila River Arena
+
+---------------------------------------------------
+
+Date: 01/26/2019
+Name: Valley View Casino Center
+Date: 01/29/2019
+Country: United States
+
+---------------------------------------------------
+
+City: San Diego
+Date: 02/07/2019
+Name: Pepsi Center
+Country: CA
+
+---------------------------------------------------
+
+Country: CO
+City: Denver
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/09/2019
+Country: United States
+Country: OK
+Name: BOK Center
+Country: United States
+
+---------------------------------------------------
+
+City: Tulsa
+
+---------------------------------------------------
+
+City: Omaha
+Date: 02/12/2019
+Name: CenturyLink Center Omaha
+Country: United States
+
+---------------------------------------------------
+
+Date: 02/13/2019
+
+---------------------------------------------------
+
+Name: Sprint Center
+City: Kansas City
+Country: United States
+Country: MO
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: NE
+Date: 02/18/2019
+Name: Madison Square Garden
+City: New York
+Country: United States
+
+---------------------------------------------------
+
+Country: NY
+
+---------------------------------------------------
+
+City: Milwaukee
+Name: Wisconsin Entertainment and Sports Center
+Country: WI
+Date: 02/19/2019
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+City: Minneapolis
+Name: Target Center
+Country: United States
+Country: MN
+Date: 02/21/2019
+
+---------------------------------------------------
+
+Date: 02/27/2019
+Name: U.S. Bank Arena
+
+---------------------------------------------------
+
+City: Cincinnati
+Country: United States
+
+---------------------------------------------------
+
+Country: OH
+Date: 03/01/2019
+Name: Times Union Center
+
+---------------------------------------------------
+
+City: Albany
+
+---------------------------------------------------
+
+Country: NY
+
+---------------------------------------------------
+
+Country: United States
+Date: 03/08/2019
+Name: Barclays Center
+Country: United States
+City: Brooklyn
+
+---------------------------------------------------
+
+Date: 03/12/2019
+Name: PNC Arena
+City: Raleigh
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+Country: NY
+
+---------------------------------------------------
+
+Date: 03/13/2019
+Name: Colonial Life Arena
+
+---------------------------------------------------
+
+Country: United States
+City: Columbia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: SC
+Name: Jacksonville Veterans Memorial Arena
+City: Jacksonville
+Country: United States
+Country: FL
+Date: 03/15/2019
+
+---------------------------------------------------
+
+Name: Tauron Arena
+Date: 05/04/2019
+
+---------------------------------------------------
+
+City: Kraków
+
+---------------------------------------------------
+
+Country: Poland
+Date: 05/07/2019
+
+---------------------------------------------------
+
+Country: Czech Republic
+City: Prague
+Name: O2 Arena
+
+---------------------------------------------------
+
+Date: 05/15/2019
+
+---------------------------------------------------
+
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/18/2019
+Name: Royal Arena
+City: Copenhagen
+Name: Ziggo Dome
+City: Nieuw-amsterdam
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 05/19/2019
+Name: Scandinavium
+Country: Denmark
+
+---------------------------------------------------
+
+City: Goteborg
+Country: Sweden
+
+---------------------------------------------------
+
+Date: 10/16/2018
+Name: The Forum
+City: Los Angeles
+Country: United States
+
+---------------------------------------------------
+
+Country: CA
+
+---------------------------------------------------
+
+Date: 10/17/2018
+City: Los Angeles
+Name: The Forum
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: The Forum
+Date: 10/19/2018
+City: Los Angeles
+Country: United States
+
+---------------------------------------------------
+
+Country: CA
+
+---------------------------------------------------
+
+Name: The Forum
+Date: 10/20/2018
+City: Los Angeles
+Country: United States
+Country: CA
+
+---------------------------------------------------
+
+Date: 10/26/2018
+
+---------------------------------------------------
+
+Country: CA
+Name: Oracle Arena
+Country: United States
+City: Oakland
+
+---------------------------------------------------
+
+Country: CA
+
+---------------------------------------------------
+
+Name: USS Hornet Aircraft Carrier
+Date: 10/26/2018
+Country: CA
+City: Alameda
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+City: Oakland
+Name: Oracle Arena
+Country: United States
+Date: 10/27/2018
+
+---------------------------------------------------
+
+Date: 10/29/2018
+
+---------------------------------------------------
+
+City: Oakland
+Name: Oracle Arena
+Country: CA
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/01/2018
+Name: Tacoma Dome
+City: Tacoma
+Country: United States
+
+---------------------------------------------------
+
+Country: WA
+Date: 11/03/2018
+
+---------------------------------------------------
+
+Name: Rogers Arena
+City: Vancouver
+Country: Canada
+
+---------------------------------------------------
+
+Name: Rogers Arena
+Date: 11/04/2018
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+Date: 11/06/2018
+
+---------------------------------------------------
+
+Name: Rogers Place
+Country: Canada
+City: Vancouver
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Edmonton
+Name: Rogers Place
+Country: Canada
+Date: 11/07/2018
+
+---------------------------------------------------
+
+Date: 11/10/2018
+
+---------------------------------------------------
+
+City: Saint Louis
+Name: Enterprise Center
+Country: MO
+City: Edmonton
+Country: United States
+
+---------------------------------------------------
+
+Name: AmericanAirlines Arena
+Date: 11/13/2018
+
+---------------------------------------------------
+
+Country: United States
+City: Miami
+
+---------------------------------------------------
+
+Country: FL
+Date: 11/14/2018
+Name: AmericanAirlines Arena
+Country: FL
+City: Miami
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Name: State Farm Arena
+
+---------------------------------------------------
+
+City: Atlanta
+Date: 11/16/2018
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: State Farm Arena
+Date: 11/17/2018
+Country: GA
+City: Atlanta
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+Name: Chateau Le Jardin Event Venue
+Country: GA
+Date: 11/29/2018
+
+---------------------------------------------------
+
+Country: Canada
+City: Woodbridge
+
+---------------------------------------------------
+
+Name: Accorhotels Arena
+Country: France
+Date: 03/08/2019
+
+---------------------------------------------------
+
+City: Paris
+
+---------------------------------------------------
+
+Name: Accorhotels Arena
+Country: France
+Date: 03/09/2019
+
+---------------------------------------------------
+
+City: Paris
+
+---------------------------------------------------
+
+Artist: Logic
+Preview: https://p.scdn.co/mp3-preview/80ca0295c294687e4ce72081a94e36ff32bd43d1?cid=89af55335d4b448abad28f94fdc26d2e
+Album: Everybody
+Song: 1-800-273-8255
+
+---------------------------------------------------
+
+Date: 10/16/2018
+
+---------------------------------------------------
+
+Name: Bankers Life Fieldhouse
+City: Indianapolis
+Country: United States
+
+---------------------------------------------------
+
+Country: IN
+
+---------------------------------------------------
+
+Name: Sprint Center
+City: Kansas City
+Date: 10/18/2018
+Country: United States
+
+---------------------------------------------------
+
+Country: MO
+Date: 10/20/2018
+
+---------------------------------------------------
+
+City: St. Louis
+Name: Scottrade Center
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: MO
+Name: Xcel Energy Center
+Country: MN
+Date: 10/22/2018
+
+---------------------------------------------------
+
+City: St Paul
+Country: United States
+
+---------------------------------------------------
+
+City: Cleveland
+Date: 10/26/2018
+Name: Quicken Loans Arena
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: OH
+Name: Wisconsin Entertainment and Sports Center
+Country: WI
+Date: 10/28/2018
+Country: United States
+City: Milwaukee
+
+---------------------------------------------------
+
+Name: Little Caesars Arena
+Country: MI
+City: Detroit
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/01/2018
+Name: PPG Paints Arena
+
+---------------------------------------------------
+
+Date: 10/30/2018
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/03/2018
+Name: Canadian Tire Centre
+City: Pittsburgh
+City: Kanata
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+Date: 11/05/2018
+Name: Scotiabank Arena
+Country: Canada
+
+---------------------------------------------------
+
+City: Toronto
+
+---------------------------------------------------
+
+Date: 11/07/2018
+Name: Nationwide Arena
+Country: United States
+City: Columbus
+
+---------------------------------------------------
+
+Country: OH
+
+---------------------------------------------------
+
+City: Edmonton
+Name: Rogers Place
+Country: Canada
+Date: 11/10/2018
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/12/2018
+Name: Scotiabank Saddledome
+
+---------------------------------------------------
+
+Country: Canada
+City: Calgary
+Date: 11/14/2018
+
+---------------------------------------------------
+
+Country: Canada
+Name: Rogers Arena
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Vancouver
+Date: 11/17/2018
+Name: Tacoma Dome
+Country: WA
+Country: United States
+
+---------------------------------------------------
+
+Date: 11/19/2018
+
+---------------------------------------------------
+
+Name: Moda Center
+Country: OR
+City: Portland
+Country: United States
+
+---------------------------------------------------
+
+City: Tacoma
+Date: 11/21/2018
+
+---------------------------------------------------
+
+Name: SAP Center At San Jose
+City: San Jose
+Country: United States
+
+---------------------------------------------------
+
+Country: CA
+Date: 11/23/2018
+
+---------------------------------------------------
+
+Name: Golden 1 Center
+Country: United States
+
+---------------------------------------------------
+
+City: Sacramento
+Date: 11/25/2018
+
+---------------------------------------------------
+
+Name: Oracle Arena
+City: Oakland
+Country: United States
+Country: CA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/28/2018
+Name: Talking Stick Resort Arena
+Country: AZ
+City: Phoenix
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/30/2018
+Name: T-Mobile Arena
+Country: NV
+City: Las Vegas
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/03/2018
+Name: Pepsi Center
+Country: CA
+City: Denver
+Country: United States
+
+---------------------------------------------------
+
+Country: CO
+
+---------------------------------------------------
+
+Date: 12/06/2018
+Name: Save Mart Center
+Country: CA
+City: Fresno
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+City: San Diego
+Name: Viejas Arena
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/08/2018
+
+---------------------------------------------------
+
+Country: CA
+Date: 12/11/2018
+City: Los Angeles
+Name: The Forum
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/13/2018
+
+---------------------------------------------------
+
+Name: The Forum
+Country: CA
+City: Los Angeles
+Country: United States
+
+---------------------------------------------------
+
+Country: CA
+
+---------------------------------------------------
+
+Name: Toyota Center
+Country: TX
+Date: 02/05/2019
+
+---------------------------------------------------
+
+City: Houston
+Country: United States
+
+---------------------------------------------------
+
+Date: 02/07/2019
+Name: American Airlines Center
+Country: United States
+Country: TX
+City: Dallas
+
+---------------------------------------------------
+
+Date: 02/09/2019
+Name: Frank C Erwin Special Events Center
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+City: Austin
+
+---------------------------------------------------
+
+Date: 02/13/2019
+Name: Legacy Arena at The BJCC
+
+---------------------------------------------------
+
+Country: United States
+City: Birmingham
+
+---------------------------------------------------
+
+Country: AL
+Date: 02/16/2019
+
+---------------------------------------------------
+
+Country: LA
+Name: Smoothie King Center
+City: New Orleans
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+City: Tampa
+Name: Amalie Arena
+Country: United States
+Date: 02/18/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/20/2019
+Name: BB&T Center
+Country: FL
+City: Sunrise
+Country: United States
+
+---------------------------------------------------
+
+Country: FL
+Date: 02/22/2019
+Name: Colonial Life Arena
+Country: SC
+City: Columbia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Name: Spectrum Center
+City: Charlotte
+Date: 02/24/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: NC
+Date: 02/27/2019
+Name: Bridgestone Arena
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+City: Nashville
+
+---------------------------------------------------
+
+City: Atlanta
+Date: 03/03/2019
+Country: United States
+Name: Philips Arena
+
+---------------------------------------------------
+
+Country: GA
+
+---------------------------------------------------
+
+City: Washington
+Name: Capital One Arena
+Country: DC
+Date: 03/05/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/09/2019
+Name: Boardwalk Hall
+City: Atlantic City
+Country: United States
+
+---------------------------------------------------
+
+Country: NJ
+
+---------------------------------------------------
+
+Name: Madison Square Garden
+Date: 03/11/2019
+Country: United States
+Country: United States
+Country: NY
+City: New York
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Prudential Center
+City: Newark
+Date: 03/13/2019
+
+---------------------------------------------------
+
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+City: Hartford
+Country: CT
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------------
+
+Date: 03/20/2019
+Name: Times Union Center
+City: Albany
+Name: XL Center
+Date: 03/15/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/24/2019
+Name: Royal Farms Arena
+Country: MD
+Country: United States
+
+---------------------------------------------------
+
+Country: NY
+
+---------------------------------------------------
+
+Date: 03/26/2019
+City: Buffalo
+Name: KeyBank Center
+Country: United States
+Country: NY
+
+---------------------------------------------------
+
+Date: 03/31/2019
+
+---------------------------------------------------
+
+Name: TD Garden
+City: Boston
+City: Baltimore
+Country: United States
+
+---------------------------------------------------
+
+Country: MA
+
+---------------------------------------------------
+
+City: Philadelphia
+Name: Wells Fargo Center
+Country: United States
+
+---------------------------------------------------
+
+Country: PA
+Date: 04/05/2019
+
+---------------------------------------------------
+
+Release Year: 2015
+Title: Goosebumps
+Country: USA, Australia
+Rotten Tomatoes Rating: 77%
+Language: English
+Plot: A teenager teams up with the daughter of young adult horror author R. L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.
+IMDB Rating: 6.3
+
+---------------------------------------------------
+
+Actors: Jack Black, Dylan Minnette, Odeya Rush, Ryan Lee
+
+---------------------------------------------------
+
+IMDB Rating: 6.8
+Release Year: 2018
+Rotten Tomatoes Rating: 94%
+Language: English
+Country: Belgium, USA
+Plot: Mandy is set in the primal wilderness of 1983 where Red Miller, a broken and haunted man, hunts an unhinged religious sect who slaughtered the love of his life.
+Actors: Nicolas Cage, Andrea Riseborough, Linus Roache, Ned Dennehy
+Title: Mandy
+
+---------------------------------------------------
+
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 10/18/2018
+Name: Madison Square Garden
+Country: NY
+City: New York
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Madison Square Garden
+Date: 10/19/2018
+Country: United States
+Country: United States
+City: New York
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: NY
+Date: 10/23/2018
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Louisville
+Name: KFC Yum! Center
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: KY
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 10/24/2018
+Name: Bridgestone Arena
+Country: TN
+City: Nashville
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: United Center
+City: Chicago
+Date: 10/26/2018
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: IL
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Chicago
+Name: United Center
+Country: IL
+Date: 10/27/2018
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Scottrade Center
+Country: United States
+City: St Louis
+Date: 10/30/2018
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: MO
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 11/02/2018
+Name: Schottenstein Center
+Country: United States
+Country: OH
+City: Columbus
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Quicken Loans Arena
+City: Cleveland
+Country: OH
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 11/23/2018
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Sunrise
+Date: 11/03/2018
+Country: United States
+Country: FL
+Name: BB&T Center
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: AmericanAirlines Arena
+Country: FL
+Date: 11/24/2018
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: United States
+Date: 11/27/2018
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Miami
+Name: Amway Center
+City: Orlando
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: FL
+Date: 11/28/2018
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Tampa
+Name: Amalie Arena
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 11/30/2018
+Name: Philips Arena
+City: Atlanta
+Country: United States
+Country: GA
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: FL
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Atlanta
+Name: Philips Arena
+Date: 12/01/2018
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Legacy Arena at the BJCC
+City: Birmingham
+Country: AL
+Date: 12/04/2018
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 12/06/2018
+Name: Smoothie King Center
+Country: GA
+City: New Orleans
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: LA
+Date: 12/08/2018
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Toyota Center
+City: Houston
+Country: United States
+Country: TX
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 12/09/2018
+Name: Toyota Center
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Houston
+Country: United States
+Country: TX
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 12/12/2018
+Name: AT&T Center
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: United States
+Country: TX
+City: San Antonio
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: American Airlines Center
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 12/14/2018
+City: Dallas
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: TX
+Date: 12/15/2018
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: TX
+Name: American Airlines Center
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Dallas
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: United States
+City: Boise
+Date: 01/11/2019
+Country: United States
+Name: Taco Bell Arena
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: ID
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 01/12/2019
+Name: Moda Center
+Country: United States
+City: Portland
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 01/15/2019
+Name: Save Mart Center
+Country: CA
+City: Fresno
+Country: OR
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 01/16/2019
+Name: Golden 1 Center
+Country: CA
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 01/18/2019
+Country: United States
+Name: Oracle Arena
+City: Sacramento
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Oakland
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: SAP Center At San Jose
+Date: 01/19/2019
+City: San Jose
+Country: CA
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: CA
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 01/22/2019
+Name: Staples Center
+Country: United States
+City: Los Angeles
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Staples Center
+Date: 01/23/2019
+City: Los Angeles
+Country: CA
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: CA
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 01/26/2019
+Name: Gila River Arena
+City: Glendale
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: AZ
+Date: 01/29/2019
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: CA
+Name: Valley View Casino Center
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 02/07/2019
+Name: Pepsi Center
+Country: CO
+City: Denver
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: San Diego
+Date: 02/09/2019
+Name: BOK Center
+Country: OK
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Tulsa
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 02/12/2019
+Name: CenturyLink Center Omaha
+City: Omaha
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 02/13/2019
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: NE
+Name: Sprint Center
+Country: MO
+City: Kansas City
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: United States
+Name: Madison Square Garden
+Date: 02/18/2019
+Country: NY
+City: New York
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Wisconsin Entertainment and Sports Center
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Milwaukee
+Date: 02/19/2019
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 02/21/2019
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Minneapolis
+Name: Target Center
+Country: United States
+Country: MN
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: WI
+Date: 02/27/2019
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: OH
+Name: U.S. Bank Arena
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Cincinnati
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Albany
+Name: Times Union Center
+Country: United States
+Country: NY
+Date: 03/01/2019
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Brooklyn
+Name: Barclays Center
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 03/12/2019
+Name: PNC Arena
+City: Raleigh
+Country: NC
+Date: 03/08/2019
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 03/13/2019
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Columbia
+Name: Colonial Life Arena
+Country: SC
+Country: United States
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Jacksonville Veterans Memorial Arena
+Country: NY
+Date: 03/15/2019
+Country: United States
+Country: FL
+City: Jacksonville
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Tauron Arena
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Country: Poland
+Date: 05/04/2019
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 05/07/2019
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Prague
+City: Kraków
+Country: Czech Republic
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 05/15/2019
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Ziggo Dome
+City: Nieuw-amsterdam
+Country: Netherlands
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Date: 05/18/2019
+Name: Royal Arena
+Country: Denmark
+City: Copenhagen
+Name: O2 Arena
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+City: Goteborg
+Date: 05/19/2019
+Country: Sweden
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+Name: Scandinavium
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Fiserv Forum[39m
+[94mDate: 10/16/2018[39m
+[94mCountry: WI[39m
+[94mCity: Milwaukee[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/18/2018[39m
+[94mName: PPG Paints Arena[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Pittsburgh[39m
+[94mCountry: PA[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/20/2018[39m
+[94mName: Bryce Jordan Center[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: University Park[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: PA[39m
+[94mDate: 10/22/2018[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: NC[39m
+[94mName: Spectrum Center[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/25/2018[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Philadelphia[39m
+[94mCity: Charlotte[39m
+[94mCountry: PA[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/27/2018[39m
+[94mName: Wells Fargo Center[39m
+[94mCountry: NY[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Buffalo[39m
+[94mName: KeyBank Center[39m
+[94mDate: 10/29/2018[39m
+[94mName: Times Union Center[39m
+[94mCity: Albany[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 11/26/2018[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: T-Mobile Arena[39m
+[94mCity: Las Vegas[39m
+[94mCountry: United States[39m
+[94mCountry: NV[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: NY[39m
+[94mDate: 11/28/2018[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Boise[39m
+[94mName: Taco Bell Arena[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: ID[39m
+[94mName: Vivint Smart Home Arena[39m
+[94mCity: Salt Lake City[39m
+[94mCountry: UT[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 11/30/2018[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Spokane Arena[39m
+[94mDate: 12/02/2018[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: United States[39m
+[94mCity: Spokane[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 12/05/2018[39m
+[94mCity: Portland[39m
+[94mName: Moda Center[39m
+[94mCountry: OR[39m
+[94mCountry: WA[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 12/07/2018[39m
+[94mName: Golden 1 Center[39m
+[94mCity: Sacramento[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: CA[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Save Mart Center[39m
+[94mCity: Fresno[39m
+[94mDate: 12/09/2018[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: CA[39m
+[94mDate: 01/18/2019[39m
+[94mCountry: OK[39m
+[94mName: BOK Center[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 01/20/2019[39m
+[94mCity: Tulsa[39m
+[94mCity: North Little Rock[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Verizon Arena[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 01/22/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Legacy Arena at The BJCC[39m
+[94mCity: Birmingham[39m
+[94mCountry: United States[39m
+[94mCountry: AL[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: AR[39m
+[94mDate: 01/24/2019[39m
+[94mName: Bridgestone Arena[39m
+[94mCountry: TN[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Nashville[39m
+[94mDate: 01/28/2019[39m
+[94mCountry: NC[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Raleigh[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: U.S. Bank Arena[39m
+[94mCity: Cincinnati[39m
+[94mDate: 01/30/2019[39m
+[94mCountry: United States[39m
+[94mName: PNC Arena[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 02/01/2019[39m
+[94mCountry: OH[39m
+[94mCity: Cleveland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Quicken Loans Arena[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 02/28/2019[39m
+[94mCountry: United States[39m
+[94mName: Don Haskins Center[39m
+[94mCity: El Paso[39m
+[94mCountry: TX[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: OH[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Lubbock[39m
+[94mDate: 03/02/2019[39m
+[94mCountry: United States[39m
+[94mName: United Supermarkets Arena[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Intrust Bank Arena[39m
+[94mCountry: TX[39m
+[94mDate: 03/04/2019[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 03/06/2019[39m
+[94mName: Sprint Center[39m
+[94mCountry: KS[39m
+[94mCity: Wichita[39m
+[94mCountry: United States[39m
+[94mCity: Kansas City[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 03/09/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Louisville[39m
+[94mName: KFC Yum! Center[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: KY[39m
+[94mCountry: MO[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 03/11/2019[39m
+[94mCity: Indianapolis[39m
+[94mCountry: United States[39m
+[94mName: Bankers Life Fieldhouse[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: IN[39m
+[94mDate: 03/13/2019[39m
+[94mName: Van Andel Arena[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: MI[39m
+[94mDate: 05/01/2019[39m
+[94mCity: Grand Rapids[39m
+[94mName: Restelo Stadium[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Lisbon[39m
+[94mCountry: Portugal[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Madrid[39m
+[94mDate: 05/03/2019[39m
+[94mName: Valdebebas - IFEMA[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Spain[39m
+[94mDate: 05/05/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Barcelona[39m
+[94mName: Estadi Olímpic Lluís Companys[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Spain[39m
+[94mDate: 05/08/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Italy[39m
+[94mName: Ippodromo Snai - San Siro[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 05/10/2019[39m
+[94mCity: Milan[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Stadion Letzigrund[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Zürich[39m
+[94mDate: 05/12/2019[39m
+[94mName: Stade de France[39m
+[94mCountry: Switzerland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: France[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/08/2019[39m
+[94mName: SLANE CASTLE[39m
+[94mCity: Co. Meath[39m
+[94mCity: Paris[39m
+[94mCountry: Ireland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Johan Cruijff ArenA[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Netherlands[39m
+[94mCity: Nieuw-amsterdam[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/11/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: RheinEnergieSTADION[39m
+[94mCity: Köln[39m
+[94mCountry: Germany[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/16/2019[39m
+[94mName: Stade Roi Baudouin[39m
+[94mCity: Bruxelles[39m
+[94mCountry: Belgium[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Etihad Stadium[39m
+[94mDate: 06/18/2019[39m
+[94mCountry: United Kingdom[39m
+[94mCity: Manchester[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/13/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: London[39m
+[94mDate: 06/20/2019[39m
+[94mName: Twickenham Stadium[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/06/2019[39m
+[94mCountry: United Kingdom[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Germany[39m
+[94mName: Olympiastadion[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/09/2019[39m
+[94mName: Ullevi Restaurant & Conference[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Berlin[39m
+[94mCountry: Sweden[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Göteborg[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Copenhagen[39m
+[94mName: Telia Parken[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/11/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Denmark[39m
+[94mName: Granasen Arena[39m
+[94mDate: 07/13/2019[39m
+[94mCity: Trondheim[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/16/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Hameenlinna[39m
+[94mCountry: Norway[39m
+[94mName: KANTOLAN TAPAHTUMAPUISTO[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Finland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Tartu[39m
+[94mName: Raadi lennuväli, Tartu[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/18/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Estija[39m
+[94mName: The Luzhniki Stadium[39m
+[94mDate: 07/21/2019[39m
+[94mCity: Moscow[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/14/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Bucuresti[39m
+[94mCountry: Romania[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: NATIONAL ARENA[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/16/2019[39m
+[94mName: Ernst Happel Stadion[39m
+[94mCountry: Austria[39m
+[94mCity: Wien[39m
+[94mCountry: Russia[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Letiště Praha Letňany[39m
+[94mCity: Praha[39m
+[94mCountry: Czech Republic[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/18/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/21/2019[39m
+[94mName: PGE Narodowy[39m
+[94mCity: Warsaw[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Poland[39m
+[94mDate: 08/23/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Germany[39m
+[94mName: Olympiastadion[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Munchen[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Mannheim[39m
+[94mName: Maimarkt Gelände[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/25/2019[39m
+[94mCountry: Germany[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 10/16/2018[49m
+[94mCity: Milwaukee[39m
+[94mName: Fiserv Forum[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: WI[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Pittsburgh[39m
+[94mName: PPG Paints Arena[39m
+[94mCountry: United States[39m
+[94mCountry: PA[39m
+[43mDate: 10/18/2018[49m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Bryce Jordan Center[39m
+[94mCity: University Park[39m
+[94mCountry: PA[39m
+[43mDate: 10/20/2018[49m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 10/22/2018[49m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Charlotte[39m
+[94mName: Spectrum Center[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 10/25/2018[49m
+[94mName: Wells Fargo Center[39m
+[94mCity: Philadelphia[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: NC[39m
+[43mDate: 10/27/2018[49m
+[94mName: KeyBank Center[39m
+[94mCity: Buffalo[39m
+[94mCountry: PA[39m
+[94mCountry: NY[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 10/29/2018[49m
+[94mName: Times Union Center[39m
+[94mCity: Albany[39m
+[94mCountry: NY[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 11/26/2018[49m
+[94mName: T-Mobile Arena[39m
+[94mCity: Las Vegas[39m
+[94mCountry: NV[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 11/28/2018[49m
+[94mName: Taco Bell Arena[39m
+[94mCountry: United States[39m
+[94mCountry: ID[39m
+[94mCity: Boise[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Vivint Smart Home Arena[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Salt Lake City[39m
+[43mDate: 11/30/2018[49m
+[94mCountry: UT[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Spokane Arena[39m
+[43mDate: 12/02/2018[49m
+[94mCountry: WA[39m
+[94mCity: Spokane[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: United States[39m
+[43mDate: 12/05/2018[49m
+[94mName: Moda Center[39m
+[94mCountry: OR[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Portland[39m
+[43mDate: 12/07/2018[49m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCity: Sacramento[39m
+[94mName: Golden 1 Center[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: CA[39m
+[43mDate: 12/09/2018[49m
+[94mName: Save Mart Center[39m
+[94mCity: Fresno[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 01/18/2019[49m
+[94mCity: Tulsa[39m
+[94mName: BOK Center[39m
+[94mCountry: CA[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: OK[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 01/20/2019[49m
+[94mName: Verizon Arena[39m
+[94mCity: North Little Rock[39m
+[94mCountry: AR[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 01/22/2019[49m
+[94mName: Legacy Arena at The BJCC[39m
+[94mCity: Birmingham[39m
+[94mCountry: AL[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 01/24/2019[49m
+[94mName: Bridgestone Arena[39m
+[94mCity: Nashville[39m
+[94mCountry: TN[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 01/28/2019[49m
+[94mName: PNC Arena[39m
+[94mCity: Raleigh[39m
+[94mCountry: NC[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 01/30/2019[49m
+[94mName: U.S. Bank Arena[39m
+[94mCity: Cincinnati[39m
+[94mCountry: OH[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 02/01/2019[49m
+[94mName: Quicken Loans Arena[39m
+[94mCity: Cleveland[39m
+[94mCountry: OH[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 02/28/2019[49m
+[94mName: Don Haskins Center[39m
+[94mCity: El Paso[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 03/02/2019[49m
+[94mName: United Supermarkets Arena[39m
+[94mCity: Lubbock[39m
+[94mCountry: United States[39m
+[94mCountry: TX[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 03/04/2019[49m
+[94mName: Intrust Bank Arena[39m
+[94mCity: Wichita[39m
+[94mCountry: KS[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: TX[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 03/06/2019[49m
+[94mName: Sprint Center[39m
+[94mCity: Kansas City[39m
+[94mCountry: MO[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 03/09/2019[49m
+[94mName: KFC Yum! Center[39m
+[94mCity: Louisville[39m
+[94mCountry: KY[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 03/11/2019[49m
+[94mName: Bankers Life Fieldhouse[39m
+[94mCity: Indianapolis[39m
+[94mCountry: IN[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 03/13/2019[49m
+[94mName: Van Andel Arena[39m
+[94mCity: Grand Rapids[39m
+[94mCountry: MI[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 05/01/2019[49m
+[94mName: Restelo Stadium[39m
+[94mCity: Lisbon[39m
+[94mCountry: Portugal[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 05/03/2019[49m
+[94mName: Valdebebas - IFEMA[39m
+[94mCity: Madrid[39m
+[94mCountry: Spain[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 05/05/2019[49m
+[94mName: Estadi Olímpic Lluís Companys[39m
+[94mCity: Barcelona[39m
+[94mCountry: Spain[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 05/08/2019[49m
+[94mName: Ippodromo Snai - San Siro[39m
+[94mCity: Milan[39m
+[94mCountry: Italy[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 05/10/2019[49m
+[94mName: Stadion Letzigrund[39m
+[94mCity: Zürich[39m
+[94mCountry: Switzerland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 05/12/2019[49m
+[94mName: Stade de France[39m
+[94mCity: Paris[39m
+[94mCountry: France[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 06/08/2019[49m
+[94mName: SLANE CASTLE[39m
+[94mCity: Co. Meath[39m
+[94mCountry: Ireland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 06/11/2019[49m
+[94mName: Johan Cruijff ArenA[39m
+[94mCity: Nieuw-amsterdam[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Netherlands[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 06/13/2019[49m
+[94mName: RheinEnergieSTADION[39m
+[94mCity: Köln[39m
+[94mCountry: Germany[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 06/16/2019[49m
+[94mName: Stade Roi Baudouin[39m
+[94mCity: Bruxelles[39m
+[94mCountry: Belgium[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 06/18/2019[49m
+[94mName: Etihad Stadium[39m
+[94mCity: Manchester[39m
+[94mCountry: United Kingdom[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 06/20/2019[49m
+[94mName: Twickenham Stadium[39m
+[94mCity: London[39m
+[94mCountry: United Kingdom[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 07/06/2019[49m
+[94mName: Olympiastadion[39m
+[94mCity: Berlin[39m
+[94mCountry: Germany[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 07/09/2019[49m
+[94mName: Ullevi Restaurant & Conference[39m
+[94mCity: Göteborg[39m
+[94mCountry: Sweden[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 07/11/2019[49m
+[94mName: Telia Parken[39m
+[94mCity: Copenhagen[39m
+[94mCountry: Denmark[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 07/13/2019[49m
+[94mName: Granasen Arena[39m
+[94mCity: Trondheim[39m
+[94mCountry: Norway[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 07/16/2019[49m
+[94mName: KANTOLAN TAPAHTUMAPUISTO[39m
+[94mCity: Hameenlinna[39m
+[94mCountry: Finland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 07/18/2019[49m
+[94mName: Raadi lennuväli, Tartu[39m
+[94mCity: Tartu[39m
+[94mCountry: Estija[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 07/21/2019[49m
+[94mName: The Luzhniki Stadium[39m
+[94mCity: Moscow[39m
+[94mCountry: Russia[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 08/14/2019[49m
+[94mName: NATIONAL ARENA[39m
+[94mCity: Bucuresti[39m
+[94mCountry: Romania[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 08/16/2019[49m
+[94mName: Ernst Happel Stadion[39m
+[94mCity: Wien[39m
+[94mCountry: Austria[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 08/18/2019[49m
+[94mName: Letiště Praha Letňany[39m
+[94mCity: Praha[39m
+[94mCountry: Czech Republic[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: PGE Narodowy[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 08/21/2019[49m
+[94mCountry: Poland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 08/23/2019[49m
+[94mName: Olympiastadion[39m
+[94mCity: Warsaw[39m
+[94mCity: Munchen[39m
+[94mCountry: Germany[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Maimarkt Gelände[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[43mDate: 08/25/2019[49m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: Germany[39m
+[94mCity: Mannheim[39m
+Error recorded: RequestError: TypeError: Request path contains unescaped characters
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mArtist: Backstreet Boys[39m
+[94mAlbum: The Hits--Chapter One[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mSong: I Want It That Way[39m
+[94mPreview: null[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mIMDB Rating: 6.9[39m
+[94mTitle: Step Brothers[39m
+[94mRotten Tomatoes Rating: 55%[39m
+[94mCountry: USA[39m
+[94mRelease Year: 2008[39m
+[94mPlot: Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.[39m
+[94mLanguage: English, Spanish[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mActors: Will Ferrell, John C. Reilly, Mary Steenburgen, Richard Jenkins[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32mRelease Year: 2008[39m
+[32mIMDB Rating: 6.9[39m
+[32mRotten Tomatoes Rating: 55%[39m
+[32mTitle: Step Brothers[39m
+[32mPlot: Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.[39m
+[32mActors: Will Ferrell, John C. Reilly, Mary Steenburgen, Richard Jenkins[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32mCountry: USA[39m
+[32mLanguage: English, Spanish[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[90mRelease Year: 2008[39m
+[32mTitle: Step Brothers[39m
+[32mRotten Tomatoes Rating: 55%[39m
+[32mIMDB Rating: 6.9[39m
+[32mCountry: USA[39m
+[32mLanguage: English, Spanish[39m
+[32mPlot: Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.[39m
+[32mActors: Will Ferrell, John C. Reilly, Mary Steenburgen, Richard Jenkins[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[37mTitle: Step Brothers[39m
+[32mRotten Tomatoes Rating: 55%[39m
+[90mRelease Year: 2008[39m
+[32mIMDB Rating: 6.9[39m
+[32mCountry: USA[39m
+[32mLanguage: English, Spanish[39m
+[32mPlot: Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.[39m
+[32mActors: Will Ferrell, John C. Reilly, Mary Steenburgen, Richard Jenkins[39m
+[94m[39m
+[94m---------------------------------------------------[39m
+[94m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/16/2018[39m
+[94mCountry: WI[39m
+[94mCity: Milwaukee[39m
+[94mName: Fiserv Forum[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/18/2018[39m
+[94mName: PPG Paints Arena[39m
+[94mCity: Pittsburgh[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mCountry: PA[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/20/2018[39m
+[94mCity: University Park[39m
+[94mName: Bryce Jordan Center[39m
+[94mCountry: PA[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/22/2018[39m
+[94mCountry: United States[39m
+[94mName: Spectrum Center[39m
+[94mCity: Charlotte[39m
+[94mCountry: NC[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/25/2018[39m
+[94mName: Wells Fargo Center[39m
+[94mCity: Philadelphia[39m
+[94mCountry: PA[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/27/2018[39m
+[94mName: KeyBank Center[39m
+[94mCity: Buffalo[39m
+[94mCountry: NY[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 10/29/2018[39m
+[94mName: Times Union Center[39m
+[94mCity: Albany[39m
+[94mCountry: NY[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 11/26/2018[39m
+[94mName: T-Mobile Arena[39m
+[94mCity: Las Vegas[39m
+[94mCountry: NV[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 11/28/2018[39m
+[94mName: Taco Bell Arena[39m
+[94mCity: Boise[39m
+[94mCountry: ID[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 11/30/2018[39m
+[94mName: Vivint Smart Home Arena[39m
+[94mCity: Salt Lake City[39m
+[94mCountry: UT[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 12/02/2018[39m
+[94mName: Spokane Arena[39m
+[94mCity: Spokane[39m
+[94mCountry: WA[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 12/05/2018[39m
+[94mName: Moda Center[39m
+[94mCity: Portland[39m
+[94mCountry: OR[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 12/07/2018[39m
+[94mName: Golden 1 Center[39m
+[94mCity: Sacramento[39m
+[94mCountry: CA[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 12/09/2018[39m
+[94mName: Save Mart Center[39m
+[94mCity: Fresno[39m
+[94mCountry: CA[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 01/18/2019[39m
+[94mName: BOK Center[39m
+[94mCity: Tulsa[39m
+[94mCountry: OK[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 01/20/2019[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mName: Verizon Arena[39m
+[94mCity: North Little Rock[39m
+[94mCountry: AR[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 01/22/2019[39m
+[94mName: Legacy Arena at The BJCC[39m
+[94mCity: Birmingham[39m
+[94mCountry: AL[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 01/24/2019[39m
+[94mName: Bridgestone Arena[39m
+[94mCity: Nashville[39m
+[94mCountry: TN[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 01/28/2019[39m
+[94mName: PNC Arena[39m
+[94mCity: Raleigh[39m
+[94mCountry: NC[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 01/30/2019[39m
+[94mName: U.S. Bank Arena[39m
+[94mCity: Cincinnati[39m
+[94mCountry: OH[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 02/01/2019[39m
+[94mName: Quicken Loans Arena[39m
+[94mCity: Cleveland[39m
+[94mCountry: OH[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 02/28/2019[39m
+[94mName: Don Haskins Center[39m
+[94mCity: El Paso[39m
+[94mCountry: TX[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 03/02/2019[39m
+[94mName: United Supermarkets Arena[39m
+[94mCity: Lubbock[39m
+[94mCountry: TX[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 03/04/2019[39m
+[94mName: Intrust Bank Arena[39m
+[94mCity: Wichita[39m
+[94mCountry: KS[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 03/06/2019[39m
+[94mName: Sprint Center[39m
+[94mCity: Kansas City[39m
+[94mCountry: MO[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 03/09/2019[39m
+[94mName: KFC Yum! Center[39m
+[94mCity: Louisville[39m
+[94mCountry: United States[39m
+[94mCountry: KY[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 03/11/2019[39m
+[94mName: Bankers Life Fieldhouse[39m
+[94mCity: Indianapolis[39m
+[94mCountry: IN[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 03/13/2019[39m
+[94mName: Van Andel Arena[39m
+[94mCity: Grand Rapids[39m
+[94mCountry: MI[39m
+[94mCountry: United States[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 05/01/2019[39m
+[94mName: Restelo Stadium[39m
+[94mCity: Lisbon[39m
+[94mCountry: Portugal[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 05/03/2019[39m
+[94mName: Valdebebas - IFEMA[39m
+[94mCity: Madrid[39m
+[94mCountry: Spain[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 05/05/2019[39m
+[94mName: Estadi Olímpic Lluís Companys[39m
+[94mCity: Barcelona[39m
+[94mCountry: Spain[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 05/08/2019[39m
+[94mName: Ippodromo Snai - San Siro[39m
+[94mCity: Milan[39m
+[94mCountry: Italy[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 05/10/2019[39m
+[94mName: Stadion Letzigrund[39m
+[94mCity: Zürich[39m
+[94mCountry: Switzerland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 05/12/2019[39m
+[94mName: Stade de France[39m
+[94mCity: Paris[39m
+[94mCountry: France[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/08/2019[39m
+[94mName: SLANE CASTLE[39m
+[94mCity: Co. Meath[39m
+[94mCountry: Ireland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/11/2019[39m
+[94mName: Johan Cruijff ArenA[39m
+[94mCity: Nieuw-amsterdam[39m
+[94mCountry: Netherlands[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/13/2019[39m
+[94mName: RheinEnergieSTADION[39m
+[94mCity: Köln[39m
+[94mCountry: Germany[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/16/2019[39m
+[94mName: Stade Roi Baudouin[39m
+[94mCity: Bruxelles[39m
+[94mCountry: Belgium[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/18/2019[39m
+[94mName: Etihad Stadium[39m
+[94mCity: Manchester[39m
+[94mCountry: United Kingdom[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 06/20/2019[39m
+[94mName: Twickenham Stadium[39m
+[94mCity: London[39m
+[94mCountry: United Kingdom[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/06/2019[39m
+[94mName: Olympiastadion[39m
+[94mCity: Berlin[39m
+[94mCountry: Germany[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/09/2019[39m
+[94mName: Ullevi Restaurant & Conference[39m
+[94mCity: Göteborg[39m
+[94mCountry: Sweden[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/11/2019[39m
+[94mName: Telia Parken[39m
+[94mCountry: Denmark[39m
+[94mCity: Copenhagen[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/13/2019[39m
+[94mName: Granasen Arena[39m
+[94mCity: Trondheim[39m
+[94mCountry: Norway[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/16/2019[39m
+[94mName: KANTOLAN TAPAHTUMAPUISTO[39m
+[94mCity: Hameenlinna[39m
+[94mCountry: Finland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/18/2019[39m
+[94mName: Raadi lennuväli, Tartu[39m
+[94mCity: Tartu[39m
+[94mCountry: Estija[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 07/21/2019[39m
+[94mName: The Luzhniki Stadium[39m
+[94mCity: Moscow[39m
+[94mCountry: Russia[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/14/2019[39m
+[94mName: NATIONAL ARENA[39m
+[94mCity: Bucuresti[39m
+[94mCountry: Romania[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/16/2019[39m
+[94mName: Ernst Happel Stadion[39m
+[94mCity: Wien[39m
+[94mCountry: Austria[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/18/2019[39m
+[94mName: Letiště Praha Letňany[39m
+[94mCity: Praha[39m
+[94mCountry: Czech Republic[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/21/2019[39m
+[94mName: PGE Narodowy[39m
+[94mCity: Warsaw[39m
+[94mCountry: Poland[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/23/2019[39m
+[94mName: Olympiastadion[39m
+[94mCity: Munchen[39m
+[94mCountry: Germany[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m
+[94mDate: 08/25/2019[39m
+[94mName: Maimarkt Gelände[39m
+[94mCity: Mannheim[39m
+[94mCountry: Germany[39m
+[32m[39m
+[32m---------------------------------------------------[39m
+[32m[39m

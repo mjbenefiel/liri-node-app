@@ -1,13 +1,17 @@
+//COMMANDS: concert-this, spotify-this-song, movie-this, do-what-it-says
+
 require("dotenv").config();
-var fs = require("fs");
-var request = require('request');
+let fs = require("fs");
+let request = require('request');
 
-var keys = require("./keys.js");
-var Spotify = require('node-spotify-api');
-var spotify = new Spotify(keys.spotify);
+let keys = require("./keys.js");
+let Spotify = require('node-spotify-api');
+let spotify = new Spotify(keys.spotify);
 
-var command = process.argv[2];
-var parameter = process.argv[3];
+let chalk = require('chalk');
+
+let command = process.argv[2];
+let parameter = process.argv[3];
 
 
 
@@ -43,7 +47,7 @@ function switchCase() {
 
 function bandsInTown(parameter){
 
-if (command === 'concert-this')
+if ('concert-this')
 {
 	var artist="";
 	for (var i = 3; i < process.argv.length; i++)
@@ -59,7 +63,7 @@ else
 
 
 
-var queryUrl = "https://rest.bandsintown.com/artists/"+artist+"/events?app_id=codingbootcamp";
+var queryUrl = "https://rest.bandsintown.com/artists/"+ artist +"/events?app_id=codingbootcamp";
 
 
 request(queryUrl, function(error, response, body) {
@@ -75,18 +79,16 @@ request(queryUrl, function(error, response, body) {
         var day = dateTime.substring(8,10);
         var dateForm = month + "/" + day + "/" + year
   
-      display("\n---------------------------------------------------\n");
-
-        
-      display("Date: " + dateForm);
-      display("Name: " + JS[i].venue.name);
-      display("City: " + JS[i].venue.city);
+      display(chalk.green("\n---------------------------------------------------\n"));
+      display(chalk.blue("Date: " + dateForm));
+      display(chalk.blue("Name: " + JS[i].venue.name));
+      display(chalk.blue("City: " + JS[i].venue.city));
       if (JS[i].venue.region !== "")
       {
-        display("Country: " + JS[i].venue.region);
+        display(chalk.blue("Country: " + JS[i].venue.region));
       }
-      display("Country: " + JS[i].venue.country);
-      display("\n---------------------------------------------------\n");
+      display(chalk.blue("Country: " + JS[i].venue.country));
+      display(chalk.green("\n---------------------------------------------------\n"));
 
     }
   }
@@ -113,12 +115,12 @@ function spotifySong(parameter) {
       display('Error recorded: ' + error);
       return;
     } else {
-      display("\n---------------------------------------------------\n");
-      display("Artist: " + data.tracks.items[0].artists[0].name);
-      display("Song: " + data.tracks.items[0].name);
-      display("Preview: " + data.tracks.items[3].preview_url);
-      display("Album: " + data.tracks.items[0].album.name);
-      display("\n---------------------------------------------------\n");
+      display(chalk.green("\n---------------------------------------------------\n"));
+      display(chalk.blue("Artist: " + data.tracks.items[0].artists[0].name));
+      display(chalk.blue("Song: " + data.tracks.items[0].name));
+      display(chalk.blue("Preview: " + data.tracks.items[3].preview_url));
+      display(chalk.blue("Album: " + data.tracks.items[0].album.name));
+      display(chalk.green("\n---------------------------------------------------\n"));
       
     }
   });
@@ -141,16 +143,16 @@ function omdbInfo(parameter) {
   request(queryUrl, function(err, res, body) {
   	var bodyOf = JSON.parse(body);
     if (!err && res.statusCode === 200) {
-      display("\n---------------------------------------------------\n");
-      display("Title: " + bodyOf.Title);
-      display("Release Year: " + bodyOf.Year);
-      display("IMDB Rating: " + bodyOf.imdbRating);
-      display("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value); 
-      display("Country: " + bodyOf.Country);
-      display("Language: " + bodyOf.Language);
-      display("Plot: " + bodyOf.Plot);
-      display("Actors: " + bodyOf.Actors);
-      display("\n---------------------------------------------------\n");
+      display(chalk.green("\n---------------------------------------------------\n"));
+      display(chalk.blue("Title: " + bodyOf.Title));
+      display(chalk.blue("Release Year: " + bodyOf.Year));
+      display(chalk.blue("IMDB Rating: " + bodyOf.imdbRating));
+      display(chalk.blue("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value)); 
+      display(chalk.blue("Country: " + bodyOf.Country));
+      display(chalk.blue("Language: " + bodyOf.Language));
+      display(chalk.blue("Plot: " + bodyOf.Plot));
+      display(chalk.blue("Actors: " + bodyOf.Actors));
+      display(chalk.green("\n---------------------------------------------------\n"));
     }
   });
 };

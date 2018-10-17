@@ -3,16 +3,16 @@
 require("dotenv").config();
 let fs = require("fs");
 let request = require('request');
-
+let figlet = require('figlet');
 let keys = require("./keys.js");
 let Spotify = require('node-spotify-api');
 let spotify = new Spotify(keys.spotify);
 
 let chalk = require('chalk');
 
+
 let command = process.argv[2];
 let parameter = process.argv[3];
-
 
 
 
@@ -53,8 +53,17 @@ if ('concert-this')
 	for (var i = 3; i < process.argv.length; i++)
 	{
 		artist+=process.argv[i];
-	}
-	console.log(artist);
+    }
+let bandsFig = "Bandsintown"
+    figlet(bandsFig, function(err, data) {
+        if (err) {
+            console.log('Something went wrong...');
+            console.dir(err);
+            return;
+        }
+        console.log(chalk.green(data));
+    });
+	// console.log(artist);
 }
 else
 {
@@ -79,16 +88,16 @@ request(queryUrl, function(error, response, body) {
         var day = dateTime.substring(8,10);
         var dateForm = month + "/" + day + "/" + year
   
-      display(chalk.green("\n---------------------------------------------------\n"));
-      display(chalk.blue("Date: " + dateForm));
-      display(chalk.blue("Name: " + JS[i].venue.name));
-      display(chalk.blue("City: " + JS[i].venue.city));
+      display(chalk.blue("\n---------------------------------------------------\n"));
+      display(chalk.green("Date: " + dateForm));
+      display(chalk.green("Name: " + JS[i].venue.name));
+      display(chalk.green("City: " + JS[i].venue.city));
       if (JS[i].venue.region !== "")
       {
-        display(chalk.blue("Country: " + JS[i].venue.region));
+        display(chalk.green("Country: " + JS[i].venue.region));
       }
-      display(chalk.blue("Country: " + JS[i].venue.country));
-      display(chalk.green("\n---------------------------------------------------\n"));
+      display(chalk.green("Country: " + JS[i].venue.country));
+      display(chalk.blue("\n---------------------------------------------------\n"));
 
     }
   }
@@ -96,6 +105,7 @@ request(queryUrl, function(error, response, body) {
 }
 
 //SPOTIFY
+let spotifyFig = "Spotify"
 
 function spotifySong(parameter) {
 
@@ -107,6 +117,15 @@ function spotifySong(parameter) {
     searchTrack = parameter;
   }
 
+  figlet(spotifyFig, function(err, data) {
+    if (err) {
+        console.log('Something went wrong...');
+        console.dir(err);
+        return;
+    }
+    console.log(chalk.green(data));
+});
+
   spotify.search({
     type: 'track',
     query: searchTrack
@@ -115,14 +134,15 @@ function spotifySong(parameter) {
       display('Error recorded: ' + error);
       return;
     } else {
-      display(chalk.green("\n---------------------------------------------------\n"));
-      display(chalk.blue("Artist: " + data.tracks.items[0].artists[0].name));
-      display(chalk.blue("Song: " + data.tracks.items[0].name));
-      display(chalk.blue("Preview: " + data.tracks.items[3].preview_url));
-      display(chalk.blue("Album: " + data.tracks.items[0].album.name));
-      display(chalk.green("\n---------------------------------------------------\n"));
+      display(chalk.blue("\n---------------------------------------------------\n"));
+      display(chalk.green("Artist: " + data.tracks.items[0].artists[0].name));
+      display(chalk.green("Song: " + data.tracks.items[0].name));
+      display(chalk.green("Preview: " + data.tracks.items[3].preview_url));
+      display(chalk.green("Album: " + data.tracks.items[0].album.name));
+      display(chalk.blue("\n---------------------------------------------------\n"));
       
     }
+  
   });
 };
 
@@ -138,21 +158,31 @@ function omdbInfo(parameter) {
     findMovie = parameter;
   };
 
+  let omdbFig = "OMDB"
+    figlet(omdbFig, function(err, data) {
+        if (err) {
+            console.log('Something went wrong...');
+            console.dir(err);
+            return;
+        }
+        console.log(chalk.green(data));
+    });
+
   var queryUrl = "http://www.omdbapi.com/?t=" + findMovie + "&y=&plot=short&apikey=trilogy";
   
   request(queryUrl, function(err, res, body) {
   	var bodyOf = JSON.parse(body);
     if (!err && res.statusCode === 200) {
-      display(chalk.green("\n---------------------------------------------------\n"));
-      display(chalk.blue("Title: " + bodyOf.Title));
-      display(chalk.blue("Release Year: " + bodyOf.Year));
-      display(chalk.blue("IMDB Rating: " + bodyOf.imdbRating));
-      display(chalk.blue("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value)); 
-      display(chalk.blue("Country: " + bodyOf.Country));
-      display(chalk.blue("Language: " + bodyOf.Language));
-      display(chalk.blue("Plot: " + bodyOf.Plot));
-      display(chalk.blue("Actors: " + bodyOf.Actors));
-      display(chalk.green("\n---------------------------------------------------\n"));
+      display(chalk.blue("\n---------------------------------------------------\n"));
+      display(chalk.green("Title: " + bodyOf.Title));
+      display(chalk.green("Release Year: " + bodyOf.Year));
+      display(chalk.green("IMDB Rating: " + bodyOf.imdbRating));
+      display(chalk.green("Rotten Tomatoes Rating: " + bodyOf.Ratings[1].Value)); 
+      display(chalk.green("Country: " + bodyOf.Country));
+      display(chalk.green("Language: " + bodyOf.Language));
+      display(chalk.green("Plot: " + bodyOf.Plot));
+      display(chalk.green("Actors: " + bodyOf.Actors));
+      display(chalk.blue("\n---------------------------------------------------\n"));
     }
   });
 };
@@ -160,7 +190,9 @@ function omdbInfo(parameter) {
 //DO WHAT RANDOM.TXT SAYS
 
 function getRandom() {
-fs.readFile('random.txt', "utf8", function(error, data){
+
+   
+ fs.readFile('random.txt', "utf8", function(error, data){
 
     if (error) {
         return display(error);

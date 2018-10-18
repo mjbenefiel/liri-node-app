@@ -88,7 +88,6 @@ request(queryUrl, function(error, response, body) {
         var dateForm = month + "/" + day + "/" + year
   
       display(chalk.blue("\n---------------------------------------------------\n"));
-      display(chalk.green("Date: " + dateForm));
       display(chalk.green("Name: " + JS[i].venue.name));
       display(chalk.green("City: " + JS[i].venue.city));
       if (JS[i].venue.region !== "")
@@ -96,6 +95,7 @@ request(queryUrl, function(error, response, body) {
         display(chalk.green("Country: " + JS[i].venue.region));
       }
       display(chalk.green("Country: " + JS[i].venue.country));
+      display(chalk.green("Date: " + dateForm));
       display(chalk.blue("\n---------------------------------------------------\n"));
 
     }

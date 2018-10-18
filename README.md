@@ -20,7 +20,7 @@ LIRI is a command line Node app that takes in parameters and returns data from t
 
 <h2> How it works </h2>
 Type into the command line....
-<p>
+<p></p>
 node liri.js concert-this <artist/band name here> to return concert information from Bandsintown. 
 
 node liri.js spotify-this-song <song name here> to return song information from Spotify. If no song is entered, a hard coded default song will return.

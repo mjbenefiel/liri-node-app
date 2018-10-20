@@ -15,7 +15,7 @@ Feel free to use some or all of this code if you're trying to complete a similar
 <hr>
 
 <h2> Project overview</h2>
-LIRI is a command line Node app that takes in parameters and returns data from the following APIs: Bandsintown, Spotify and OMDB
+LIRI is a command line Node app that takes in parameters and returns data from the following APIs: Bandsintown, Spotify and OMDb
 <hr>
 
 <h2> How it works </h2>
@@ -25,7 +25,7 @@ Type into the command line....
 
 - ```node liri.js spotify-this-song "song name here"``` to return song information from Spotify. If no song is entered, a hard coded default song will return.
   
-- ```node liri.js movie-this "movie name here"``` to return movie information from OMDB. If no movie is entered, a hard coded default movie will return.
+- ```node liri.js movie-this "movie name here"``` to return movie information from OMDb. If no movie is entered, a hard coded default movie will return.
   
 - ```node liri.js do-what-it-says``` to return information stored in random.txt
 
@@ -45,7 +45,7 @@ Type into the command line....
 
 [Bandsintown API](http://www.artists.bandsintown.com/bandsintown-api)
 
-[OMDB API](http://www.omdbapi.com/)
+[OMDb API](http://www.omdbapi.com/)
 
 [Spotify API](https://developer.spotify.com/documentation/web-api/)
 
@@ -108,7 +108,7 @@ Type into the command line....
   - set undefined parameter
     - return "Mr. Nobody" if no parameter entered"
   - figlet "OMDB" for style
-  - Send movie request to OMDB API and return title, release year, IMDB rating, Rotten Tomatoes rating, country, language, plot and actors
+  - Send movie request to OMDb API and return title, release year, IMDB rating, Rotten Tomatoes rating, country, language, plot and actors
   - Chalk package used for style
 
 - getRandom();

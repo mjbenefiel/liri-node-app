@@ -1,4 +1,4 @@
-<h1>Liri Node App</h1>
+<h1>LIRI Node App</h1>
 
 
 <hr>

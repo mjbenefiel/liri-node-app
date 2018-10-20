@@ -15,7 +15,7 @@ Feel free to use some or all of this code if you're trying to complete a similar
 <hr>
 
 <h2> Project overview</h2>
-LIRI is a command line Node app that takes in parameters and returns data from the following APIs: Bandsintown, Spotify and OMDb
+LIRI is a command line Node app that takes in parameters and returns data from the following APIs: Bandsintown, Spotify and OMDb.
 <hr>
 
 <h2> How it works </h2>

@@ -8,7 +8,7 @@ Author: Michael Benefiel
 Feel free to use some or all of this code if you're trying to complete a similar project.
 <hr>
 
-<h3> App screenshot </h3>
+<h3> App demo </h3>
 
 ![alt text](https://github.com/mjbenefiel/liri-node-app/blob/master/gif/liriappdemo.gif "Liri Node App")
 

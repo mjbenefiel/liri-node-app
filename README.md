@@ -23,11 +23,11 @@ Type into the command line....
 
 - ```node liri.js concert-this "artist/band name here"``` to return concert information from Bandsintown. 
 
-- node liri.js spotify-this-song "song name here" to return song information from Spotify. If no song is entered, a hard coded default song will return.
+- ```node liri.js spotify-this-song "song name here"``` to return song information from Spotify. If no song is entered, a hard coded default song will return.
   
-- node liri.js movie-this "movie name here" to return movie information from OMDB. If no movie is entered, a hard coded default movie will return.
+- ```node liri.js movie-this "movie name here"``` to return movie information from OMDB. If no movie is entered, a hard coded default movie will return.
   
-- node liri.js do-what-it-says to return information stored in random.txt
+- ```node liri.js do-what-it-says``` to return information stored in random.txt
 
 <hr>
 
@@ -53,7 +53,7 @@ Type into the command line....
 
 <h4>Below is a thorough, but not comprehensive, step-by-step process of how I got the app running in terms of code</h4>
 
-- Navigate to root of project. Initialize package.json by running mpn init -y
+- Navigate to root of project. Initialize package.json by running ```npm init -y```
 
 - Creation of .gitignore file
 
@@ -66,21 +66,21 @@ Type into the command line....
 
 - Creation of liri.js 
 
-- npm install dotenv
+- ```npm install dotenv```
 
-- npm install fs
+- ```npm install fs```
 
-- npm install request
+- ```npm install request```
 
-- npm install figlet
+- ```npm install figlet```
 
-- npm install node-spotify-api
+- ```npm install node-spotify-api```
 
-- npm install chalk 
+- ```npm install chalk``` 
 
 - declare command line variables (command, parameter)
 
-- siwtchCase() switch statement holding:
+- switchCase(); switch statement holding:
   - bandsInTown(parameter);
   - spotifySong(parameter)
   - omdbInfo(parameter);

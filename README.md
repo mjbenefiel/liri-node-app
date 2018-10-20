@@ -99,14 +99,14 @@ Type into the command line....
   - declare searchTrack variable as parameter
   - set undefined parameter
       - return Ace of Base The Sign if no track entered into parameter
-    - figlet "Spotify" for style
-    - search Spotify API and return artist, song, url preview and album name of song entered in parameter
-    - Chalk package used for style
+  - figlet "Spotify" for style
+  - search Spotify API and return artist, song, url preview and album name of song entered in parameter
+  - Chalk package used for style
 
 - ombdInfo();
   - set findMovie variable as parameter
   - set undefined parameter
-    - return "Mr. Nobody" if no parameter entered"
+    - return "Mr. Nobody" if no parameter entered
   - figlet "OMDB" for style
   - Send movie request to OMDB API and return title, release year, IMDB rating, Rotten Tomatoes rating, country, language, plot and actors
   - Chalk package used for style
